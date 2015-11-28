@@ -5,7 +5,7 @@ The structure and test tools are mostly copied from databricks/spark-csv.
 
 - This package supports to process format-free XML files in a distributed way, unlike JSON datasource in Spark restricts in-line JSON format.
 
-- Since this package is supposed to move under another organazation, it is not uploaded to maven yet.
+- As this has moved to Databricks, please go to: https://github.com/databricks/spark-xml
 
 ## Requirements
 
